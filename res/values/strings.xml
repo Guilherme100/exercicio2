@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cadastro Exemplo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="novo">Novo</string>
+    <string name="mapa">Mapa</string>
+    <string name="mais_op_es">Mais opções</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="baixar_provas">Baixar Provas</string>
+    <string name="prefer_ncias">Preferências</string>
+    <string name="title_activity_formulario">Formulario</string>
+    <string name="telefone_">Telefone:</string>
+    <string name="gravar">Gravar</string>
+    <string name="foto_do_usuario">TODO</string>
+    <string name="nome">nome</string>
+
+</resources>
